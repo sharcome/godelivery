@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "671605345221",
+    "project_id": "go-delivery-af6bf",
+    "storage_bucket": "go-delivery-af6bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671605345221:android:39723f848486c0f4e8d9ac",
+        "android_client_info": {
+          "package_name": "com.sharcome.addforgodelivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt6Cld-_Bi6ctrQEs2mh-Wf_AGjrgU00A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
